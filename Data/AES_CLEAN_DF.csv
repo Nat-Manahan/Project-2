@@ -1,0 +1,963 @@
+,Area,Category,Fuel Type,Year,Energy Generation (GWH)
+0,All,non-renewable ,Black coal,1989-90,87573
+1,All,non-renewable ,Brown coal,1989-90,33594
+2,All,non-renewable ,Natural gas,1989-90,14359
+3,All,non-renewable ,Oil products,1989-90,3552
+5,All,renewable,"Bagasse, wood",1989-90,750
+8,All,renewable,Hydro,1989-90,14880
+96,All,non-renewable ,Black coal,1990-91,89511
+97,All,non-renewable ,Brown coal,1990-91,36048
+98,All,non-renewable ,Natural gas,1990-91,10772
+99,All,non-renewable ,Oil products,1990-91,3396
+101,All,renewable,"Bagasse, wood",1990-91,769
+104,All,renewable,Hydro,1990-91,16103
+192,All,non-renewable ,Black coal,1991-92,94325
+193,All,non-renewable ,Brown coal,1991-92,34559
+194,All,non-renewable ,Natural gas,1991-92,11633
+195,All,non-renewable ,Oil products,1991-92,2362
+197,All,renewable,"Bagasse, wood",1991-92,670
+200,All,renewable,Hydro,1991-92,15768
+202,All,renewable,Small-scale solar PV,1991-92,11
+288,All,non-renewable ,Black coal,1992-93,97873
+289,All,non-renewable ,Brown coal,1992-93,33248
+290,All,non-renewable ,Natural gas,1992-93,12295
+291,All,non-renewable ,Oil products,1992-93,2421
+293,All,renewable,"Bagasse, wood",1992-93,670
+296,All,renewable,Hydro,1992-93,16953
+298,All,renewable,Small-scale solar PV,1992-93,13
+384,All,non-renewable ,Black coal,1993-94,100544
+385,All,non-renewable ,Brown coal,1993-94,34890
+386,All,non-renewable ,Natural gas,1993-94,12199
+387,All,non-renewable ,Oil products,1993-94,2320
+389,All,renewable,"Bagasse, wood",1993-94,670
+391,All,renewable,Wind,1993-94,4
+392,All,renewable,Hydro,1993-94,16649
+394,All,renewable,Small-scale solar PV,1993-94,16
+480,All,non-renewable ,Black coal,1994-95,102522
+481,All,non-renewable ,Brown coal,1994-95,35832
+482,All,non-renewable ,Natural gas,1994-95,14913
+483,All,non-renewable ,Oil products,1994-95,2738
+485,All,renewable,"Bagasse, wood",1994-95,670
+486,All,renewable,Biogas,1994-95,53
+487,All,renewable,Wind,1994-95,7
+488,All,renewable,Hydro,1994-95,16239
+490,All,renewable,Small-scale solar PV,1994-95,19
+576,All,non-renewable ,Black coal,1995-96,106090
+577,All,non-renewable ,Brown coal,1995-96,39427
+578,All,non-renewable ,Natural gas,1995-96,12445
+579,All,non-renewable ,Oil products,1995-96,2805
+581,All,renewable,"Bagasse, wood",1995-96,670
+582,All,renewable,Biogas,1995-96,258
+583,All,renewable,Wind,1995-96,7
+584,All,renewable,Hydro,1995-96,15731
+586,All,renewable,Small-scale solar PV,1995-96,23
+672,All,non-renewable ,Black coal,1996-97,109452
+673,All,non-renewable ,Brown coal,1996-97,41893
+674,All,non-renewable ,Natural gas,1996-97,11426
+675,All,non-renewable ,Oil products,1996-97,2175
+677,All,renewable,"Bagasse, wood",1996-97,670
+678,All,renewable,Biogas,1996-97,295
+679,All,renewable,Wind,1996-97,7
+680,All,renewable,Hydro,1996-97,16852
+682,All,renewable,Small-scale solar PV,1996-97,28
+768,All,non-renewable ,Black coal,1997-98,116970
+769,All,non-renewable ,Brown coal,1997-98,46633
+770,All,non-renewable ,Natural gas,1997-98,12934
+771,All,non-renewable ,Oil products,1997-98,1821
+773,All,renewable,"Bagasse, wood",1997-98,670
+774,All,renewable,Biogas,1997-98,359
+775,All,renewable,Wind,1997-98,8
+776,All,renewable,Hydro,1997-98,15733
+778,All,renewable,Small-scale solar PV,1997-98,34
+864,All,non-renewable ,Black coal,1998-99,118586
+865,All,non-renewable ,Brown coal,1998-99,49703
+866,All,non-renewable ,Natural gas,1998-99,16001
+867,All,non-renewable ,Oil products,1998-99,1729
+869,All,renewable,"Bagasse, wood",1998-99,674
+870,All,renewable,Biogas,1998-99,459
+871,All,renewable,Wind,1998-99,28
+872,All,renewable,Hydro,1998-99,16563
+874,All,renewable,Small-scale solar PV,1998-99,38
+960,All,non-renewable ,Black coal,1999-00,123834
+961,All,non-renewable ,Brown coal,1999-00,50200
+962,All,non-renewable ,Natural gas,1999-00,16245
+963,All,non-renewable ,Oil products,1999-00,1784
+965,All,renewable,"Bagasse, wood",1999-00,685
+966,All,renewable,Biogas,1999-00,449
+967,All,renewable,Wind,1999-00,58
+968,All,renewable,Hydro,1999-00,16720
+970,All,renewable,Small-scale solar PV,1999-00,44
+1056,All,non-renewable ,Black coal,2000-01,134264
+1057,All,non-renewable ,Brown coal,2000-01,52223
+1058,All,non-renewable ,Natural gas,2000-01,17271
+1059,All,non-renewable ,Oil products,2000-01,2044
+1061,All,renewable,"Bagasse, wood",2000-01,633
+1062,All,renewable,Biogas,2000-01,12
+1063,All,renewable,Wind,2000-01,210
+1064,All,renewable,Hydro,2000-01,16933
+1066,All,renewable,Small-scale solar PV,2000-01,50
+1152,All,non-renewable ,Black coal,2001-02,116775
+1153,All,non-renewable ,Brown coal,2001-02,56493
+1154,All,non-renewable ,Natural gas,2001-02,31730
+1155,All,non-renewable ,Oil products,2001-02,2446
+1157,All,renewable,"Bagasse, wood",2001-02,669
+1158,All,renewable,Biogas,2001-02,281
+1159,All,renewable,Wind,2001-02,364
+1160,All,renewable,Hydro,2001-02,16054
+1162,All,renewable,Small-scale solar PV,2001-02,58
+1248,All,non-renewable ,Black coal,2002-03,115297
+1249,All,non-renewable ,Brown coal,2002-03,55160
+1250,All,non-renewable ,Natural gas,2002-03,29375
+1251,All,non-renewable ,Oil products,2002-03,1661
+1252,All,non-renewable ,Other,2002-03,1 792.2
+1253,All,renewable,"Bagasse, wood",2002-03,827
+1254,All,renewable,Biogas,2002-03,757
+1255,All,renewable,Wind,2002-03,703
+1256,All,renewable,Hydro,2002-03,16490
+1258,All,renewable,Small-scale solar PV,2002-03,58
+1344,All,non-renewable ,Black coal,2003-04,121182
+1345,All,non-renewable ,Brown coal,2003-04,55573
+1346,All,non-renewable ,Natural gas,2003-04,30919
+1347,All,non-renewable ,Oil products,2003-04,1389
+1348,All,non-renewable ,Other,2003-04,1 817.0
+1349,All,renewable,"Bagasse, wood",2003-04,1058
+1350,All,renewable,Biogas,2003-04,741
+1351,All,renewable,Wind,2003-04,705
+1352,All,renewable,Hydro,2003-04,16331
+1354,All,renewable,Small-scale solar PV,2003-04,68
+1355,All,renewable,Geothermal,2003-04,1
+1440,All,non-renewable ,Black coal,2004-05,127789
+1441,All,non-renewable ,Brown coal,2004-05,53378
+1442,All,non-renewable ,Natural gas,2004-05,23803
+1443,All,non-renewable ,Oil products,2004-05,2841
+1444,All,non-renewable ,Other,2004-05,434
+1445,All,renewable,"Bagasse, wood",2004-05,3237
+1446,All,renewable,Biogas,2004-05,593
+1447,All,renewable,Wind,2004-05,885
+1448,All,renewable,Hydro,2004-05,15612
+1450,All,renewable,Small-scale solar PV,2004-05,78
+1451,All,renewable,Geothermal,2004-05,1
+1536,All,non-renewable ,Black coal,2005-06,130232
+1537,All,non-renewable ,Brown coal,2005-06,54553
+1538,All,non-renewable ,Natural gas,2005-06,22726
+1539,All,non-renewable ,Oil products,2005-06,3058
+1540,All,non-renewable ,Other,2005-06,517
+1541,All,renewable,"Bagasse, wood",2005-06,3268
+1542,All,renewable,Biogas,2005-06,643
+1543,All,renewable,Wind,2005-06,1 713.1
+1544,All,renewable,Hydro,2005-06,16029
+1546,All,renewable,Small-scale solar PV,2005-06,90
+1547,All,renewable,Geothermal,2005-06,1
+1632,All,non-renewable ,Black coal,2006-07,132369
+1633,All,non-renewable ,Brown coal,2006-07,54376
+1634,All,non-renewable ,Natural gas,2006-07,31850
+1635,All,non-renewable ,Oil products,2006-07,2893
+1636,All,non-renewable ,Other,2006-07,479
+1637,All,renewable,"Bagasse, wood",2006-07,3316
+1638,All,renewable,Biogas,2006-07,637
+1639,All,renewable,Wind,2006-07,2 611.1
+1640,All,renewable,Hydro,2006-07,14517
+1642,All,renewable,Small-scale solar PV,2006-07,105
+1643,All,renewable,Geothermal,2006-07,1
+1728,All,non-renewable ,Black coal,2007-08,129569
+1729,All,non-renewable ,Brown coal,2007-08,54659
+1730,All,non-renewable ,Natural gas,2007-08,34956
+1731,All,non-renewable ,Oil products,2007-08,4058
+1732,All,non-renewable ,Other,2007-08,106
+1733,All,renewable,"Bagasse, wood",2007-08,3737
+1734,All,renewable,Biogas,2007-08,859
+1735,All,renewable,Wind,2007-08,3 093.1
+1736,All,renewable,Hydro,2007-08,12057
+1738,All,renewable,Small-scale solar PV,2007-08,123
+1739,All,renewable,Geothermal,2007-08,1
+1824,All,non-renewable ,Black coal,2008-09,127271
+1825,All,non-renewable ,Brown coal,2008-09,56981
+1826,All,non-renewable ,Natural gas,2008-09,37660
+1827,All,non-renewable ,Oil products,2008-09,3388
+1828,All,non-renewable ,Other,2008-09,3 579.9
+1829,All,renewable,"Bagasse, wood",2008-09,1763
+1830,All,renewable,Biogas,2008-09,1 031.8
+1831,All,renewable,Wind,2008-09,3 823.8
+1832,All,renewable,Hydro,2008-09,11869
+1834,All,renewable,Small-scale solar PV,2008-09,156
+1835,All,renewable,Geothermal,2008-09,1
+1836,NSW,non-renewable ,Black coal,2008-09,67650
+1838,NSW,non-renewable ,Natural gas,2008-09,2445
+1839,NSW,non-renewable ,Oil products,2008-09,25
+1840,NSW,non-renewable ,Other,2008-09,337
+1841,NSW,renewable,"Bagasse, wood",2008-09,291
+1842,NSW,renewable,Biogas,2008-09,383
+1843,NSW,renewable,Wind,2008-09,41
+1844,NSW,renewable,Hydro,2008-09,1497
+1846,NSW,renewable,Small-scale solar PV,2008-09,36
+1849,VIC,non-renewable ,Brown coal,2008-09,52094
+1850,VIC,non-renewable ,Natural gas,2008-09,1452
+1851,VIC,non-renewable ,Oil products,2008-09,20
+1852,VIC,non-renewable ,Other,2008-09,61
+1854,VIC,renewable,Biogas,2008-09,292
+1855,VIC,renewable,Wind,2008-09,573
+1856,VIC,renewable,Hydro,2008-09,2235
+1858,VIC,renewable,Small-scale solar PV,2008-09,24
+1860,QLD,non-renewable ,Black coal,2008-09,50882
+1862,QLD,non-renewable ,Natural gas,2008-09,9257
+1863,QLD,non-renewable ,Oil products,2008-09,711
+1864,QLD,non-renewable ,Other,2008-09,692
+1865,QLD,renewable,"Bagasse, wood",2008-09,1472
+1866,QLD,renewable,Biogas,2008-09,116
+1867,QLD,renewable,Wind,2008-09,27
+1868,QLD,renewable,Hydro,2008-09,820
+1870,QLD,renewable,Small-scale solar PV,2008-09,51
+1871,QLD,renewable,Geothermal,2008-09,1
+1872,WA,non-renewable ,Black coal,2008-09,8738
+1874,WA,non-renewable ,Natural gas,2008-09,14556
+1875,WA,non-renewable ,Oil products,2008-09,1464
+1876,WA,non-renewable ,Other,2008-09,2 153.0
+1878,WA,renewable,Biogas,2008-09,120
+1879,WA,renewable,Wind,2008-09,675
+1882,WA,renewable,Small-scale solar PV,2008-09,19
+1885,SA,non-renewable ,Brown coal,2008-09,4887
+1886,SA,non-renewable ,Natural gas,2008-09,7371
+1887,SA,non-renewable ,Oil products,2008-09,63
+1888,SA,non-renewable ,Other,2008-09,337
+1890,SA,renewable,Biogas,2008-09,86
+1891,SA,renewable,Wind,2008-09,2 020.2
+1892,SA,renewable,Hydro,2008-09,4
+1894,SA,renewable,Small-scale solar PV,2008-09,23
+1898,TAS,non-renewable ,Natural gas,2008-09,705
+1899,TAS,non-renewable ,Oil products,2008-09,65
+1902,TAS,renewable,Biogas,2008-09,25
+1903,TAS,renewable,Wind,2008-09,487
+1904,TAS,renewable,Hydro,2008-09,7314
+1906,TAS,renewable,Small-scale solar PV,2008-09,2
+1910,NT,non-renewable ,Natural gas,2008-09,1873
+1911,NT,non-renewable ,Oil products,2008-09,1039
+1914,NT,renewable,Biogas,2008-09,9
+1918,NT,renewable,Small-scale solar PV,2008-09,1
+1920,All,non-renewable ,Black coal,2009-10,123725
+1921,All,non-renewable ,Brown coal,2009-10,56068
+1922,All,non-renewable ,Natural gas,2009-10,44585
+1923,All,non-renewable ,Oil products,2009-10,3107
+1924,All,non-renewable ,Other,2009-10,2 991.0
+1925,All,renewable,"Bagasse, wood",2009-10,1762
+1926,All,renewable,Biogas,2009-10,1 015.6
+1927,All,renewable,Wind,2009-10,5 051.7
+1928,All,renewable,Hydro,2009-10,13549
+1930,All,renewable,Small-scale solar PV,2009-10,425
+1931,All,renewable,Geothermal,2009-10,1
+1932,NSW,non-renewable ,Black coal,2009-10,64399
+1934,NSW,non-renewable ,Natural gas,2009-10,4681
+1935,NSW,non-renewable ,Oil products,2009-10,6
+1936,NSW,non-renewable ,Other,2009-10,494
+1937,NSW,renewable,"Bagasse, wood",2009-10,295
+1938,NSW,renewable,Biogas,2009-10,386
+1939,NSW,renewable,Wind,2009-10,433
+1940,NSW,renewable,Hydro,2009-10,2690
+1942,NSW,renewable,Small-scale solar PV,2009-10,119
+1945,VIC,non-renewable ,Brown coal,2009-10,51542
+1946,VIC,non-renewable ,Natural gas,2009-10,1698
+1947,VIC,non-renewable ,Oil products,2009-10,1
+1948,VIC,non-renewable ,Other,2009-10,116
+1950,VIC,renewable,Biogas,2009-10,303
+1951,VIC,renewable,Wind,2009-10,1 406.0
+1952,VIC,renewable,Hydro,2009-10,1975
+1954,VIC,renewable,Small-scale solar PV,2009-10,66
+1956,QLD,non-renewable ,Black coal,2009-10,49714
+1958,QLD,non-renewable ,Natural gas,2009-10,12021
+1959,QLD,non-renewable ,Oil products,2009-10,371
+1960,QLD,non-renewable ,Other,2009-10,1 025.9
+1961,QLD,renewable,"Bagasse, wood",2009-10,1467
+1962,QLD,renewable,Biogas,2009-10,82
+1963,QLD,renewable,Wind,2009-10,31
+1964,QLD,renewable,Hydro,2009-10,573
+1966,QLD,renewable,Small-scale solar PV,2009-10,121
+1967,QLD,renewable,Geothermal,2009-10,1
+1968,WA,non-renewable ,Black coal,2009-10,9612
+1970,WA,non-renewable ,Natural gas,2009-10,16006
+1971,WA,non-renewable ,Oil products,2009-10,1373
+1972,WA,non-renewable ,Other,2009-10,1 017.8
+1974,WA,renewable,Biogas,2009-10,121
+1975,WA,renewable,Wind,2009-10,664
+1978,WA,renewable,Small-scale solar PV,2009-10,58
+1981,SA,non-renewable ,Brown coal,2009-10,4527
+1982,SA,non-renewable ,Natural gas,2009-10,6937
+1983,SA,non-renewable ,Oil products,2009-10,164
+1984,SA,non-renewable ,Other,2009-10,335
+1986,SA,renewable,Biogas,2009-10,86
+1987,SA,renewable,Wind,2009-10,2 029.0
+1988,SA,renewable,Hydro,2009-10,4
+1990,SA,renewable,Small-scale solar PV,2009-10,51
+1994,TAS,non-renewable ,Natural gas,2009-10,1110
+1995,TAS,non-renewable ,Oil products,2009-10,74
+1998,TAS,renewable,Biogas,2009-10,29
+1999,TAS,renewable,Wind,2009-10,489
+2000,TAS,renewable,Hydro,2009-10,8307
+2002,TAS,renewable,Small-scale solar PV,2009-10,6
+2006,NT,non-renewable ,Natural gas,2009-10,2133
+2007,NT,non-renewable ,Oil products,2009-10,1118
+2008,NT,non-renewable ,Other,2009-10,2
+2010,NT,renewable,Biogas,2009-10,9
+2014,NT,renewable,Small-scale solar PV,2009-10,4
+2016,All,non-renewable ,Black coal,2010-11,116949
+2017,All,non-renewable ,Brown coal,2010-11,55298
+2018,All,non-renewable ,Natural gas,2010-11,48996
+2019,All,non-renewable ,Oil products,2010-11,3094
+2020,All,non-renewable ,Other,2010-11,2 716.1
+2021,All,renewable,"Bagasse, wood",2010-11,1077
+2022,All,renewable,Biogas,2010-11,1 024.7
+2023,All,renewable,Wind,2010-11,6 084.9
+2024,All,renewable,Hydro,2010-11,16807
+2026,All,renewable,Small-scale solar PV,2010-11,1 530.4
+2027,All,renewable,Geothermal,2010-11,1
+2028,NSW,non-renewable ,Black coal,2010-11,60732
+2030,NSW,non-renewable ,Natural gas,2010-11,4743
+2031,NSW,non-renewable ,Oil products,2010-11,61
+2032,NSW,non-renewable ,Other,2010-11,266
+2033,NSW,renewable,"Bagasse, wood",2010-11,253
+2034,NSW,renewable,Biogas,2010-11,360
+2035,NSW,renewable,Wind,2010-11,530
+2036,NSW,renewable,Hydro,2010-11,2475
+2038,NSW,renewable,Small-scale solar PV,2010-11,526
+2041,VIC,non-renewable ,Brown coal,2010-11,51067
+2042,VIC,non-renewable ,Natural gas,2010-11,1290
+2043,VIC,non-renewable ,Oil products,2010-11,38
+2044,VIC,non-renewable ,Other,2010-11,115
+2046,VIC,renewable,Biogas,2010-11,340
+2047,VIC,renewable,Wind,2010-11,1 434.4
+2048,VIC,renewable,Hydro,2010-11,3911
+2050,VIC,renewable,Small-scale solar PV,2010-11,206
+2052,QLD,non-renewable ,Black coal,2010-11,45864
+2054,QLD,non-renewable ,Natural gas,2010-11,14595
+2055,QLD,non-renewable ,Oil products,2010-11,374
+2056,QLD,non-renewable ,Other,2010-11,1 038.7
+2057,QLD,renewable,"Bagasse, wood",2010-11,824
+2058,QLD,renewable,Biogas,2010-11,97
+2059,QLD,renewable,Wind,2010-11,27
+2060,QLD,renewable,Hydro,2010-11,966
+2062,QLD,renewable,Small-scale solar PV,2010-11,401
+2063,QLD,renewable,Geothermal,2010-11,1
+2064,WA,non-renewable ,Black coal,2010-11,10352
+2066,WA,non-renewable ,Natural gas,2010-11,18116
+2067,WA,non-renewable ,Oil products,2010-11,1414
+2068,WA,non-renewable ,Other,2010-11,1 029.4
+2070,WA,renewable,Biogas,2010-11,112
+2071,WA,renewable,Wind,2010-11,719
+2074,WA,renewable,Small-scale solar PV,2010-11,198
+2077,SA,non-renewable ,Brown coal,2010-11,4232
+2078,SA,non-renewable ,Natural gas,2010-11,6693
+2079,SA,non-renewable ,Oil products,2010-11,89
+2080,SA,non-renewable ,Other,2010-11,267
+2082,SA,renewable,Biogas,2010-11,78
+2083,SA,renewable,Wind,2010-11,2 890.3
+2084,SA,renewable,Hydro,2010-11,4
+2086,SA,renewable,Small-scale solar PV,2010-11,183
+2090,TAS,non-renewable ,Natural gas,2010-11,1506
+2091,TAS,non-renewable ,Oil products,2010-11,95
+2094,TAS,renewable,Biogas,2010-11,30
+2095,TAS,renewable,Wind,2010-11,484
+2096,TAS,renewable,Hydro,2010-11,9452
+2098,TAS,renewable,Small-scale solar PV,2010-11,12
+2102,NT,non-renewable ,Natural gas,2010-11,2054
+2103,NT,non-renewable ,Oil products,2010-11,1023
+2104,NT,non-renewable ,Other,2010-11,1
+2106,NT,renewable,Biogas,2010-11,9
+2110,NT,renewable,Small-scale solar PV,2010-11,6
+2112,All,non-renewable ,Black coal,2011-12,116654
+2113,All,non-renewable ,Brown coal,2011-12,55068
+2114,All,non-renewable ,Natural gas,2011-12,48572
+2115,All,non-renewable ,Oil products,2011-12,2703
+2116,All,non-renewable ,Other,2011-12,1 088.1
+2117,All,renewable,"Bagasse, wood",2011-12,1606
+2118,All,renewable,Biogas,2011-12,1 437.4
+2119,All,renewable,Wind,2011-12,6 969.7
+2120,All,renewable,Hydro,2011-12,14083
+2122,All,renewable,Small-scale solar PV,2011-12,2 558.7
+2123,All,renewable,Geothermal,2011-12,1
+2124,NSW,non-renewable ,Black coal,2011-12,60454
+2126,NSW,non-renewable ,Natural gas,2011-12,4212
+2127,NSW,non-renewable ,Oil products,2011-12,42
+2129,NSW,renewable,"Bagasse, wood",2011-12,414
+2130,NSW,renewable,Biogas,2011-12,409
+2131,NSW,renewable,Wind,2011-12,698
+2132,NSW,renewable,Hydro,2011-12,2447
+2134,NSW,renewable,Small-scale solar PV,2011-12,658
+2137,VIC,non-renewable ,Brown coal,2011-12,52060
+2138,VIC,non-renewable ,Natural gas,2011-12,1143
+2139,VIC,non-renewable ,Oil products,2011-12,4
+2141,VIC,renewable,"Bagasse, wood",2011-12,187
+2142,VIC,renewable,Biogas,2011-12,672
+2143,VIC,renewable,Wind,2011-12,1 416.2
+2144,VIC,renewable,Hydro,2011-12,2393
+2146,VIC,renewable,Small-scale solar PV,2011-12,379
+2148,QLD,non-renewable ,Black coal,2011-12,45417
+2150,QLD,non-renewable ,Natural gas,2011-12,15303
+2151,QLD,non-renewable ,Oil products,2011-12,306
+2152,QLD,non-renewable ,Other,2011-12,16
+2153,QLD,renewable,"Bagasse, wood",2011-12,1006
+2154,QLD,renewable,Biogas,2011-12,119
+2155,QLD,renewable,Wind,2011-12,28
+2156,QLD,renewable,Hydro,2011-12,723
+2158,QLD,renewable,Small-scale solar PV,2011-12,760
+2159,QLD,renewable,Geothermal,2011-12,1
+2160,WA,non-renewable ,Black coal,2011-12,10783
+2162,WA,non-renewable ,Natural gas,2011-12,17538
+2163,WA,non-renewable ,Oil products,2011-12,1171
+2164,WA,non-renewable ,Other,2011-12,1 072.4
+2166,WA,renewable,Biogas,2011-12,126
+2167,WA,renewable,Wind,2011-12,1 278.7
+2170,WA,renewable,Small-scale solar PV,2011-12,331
+2173,SA,non-renewable ,Brown coal,2011-12,3008
+2174,SA,non-renewable ,Natural gas,2011-12,6703
+2175,SA,non-renewable ,Oil products,2011-12,98
+2178,SA,renewable,Biogas,2011-12,71
+2179,SA,renewable,Wind,2011-12,3 126.5
+2180,SA,renewable,Hydro,2011-12,4
+2182,SA,renewable,Small-scale solar PV,2011-12,398
+2186,TAS,non-renewable ,Natural gas,2011-12,1563
+2187,TAS,non-renewable ,Oil products,2011-12,61
+2190,TAS,renewable,Biogas,2011-12,33
+2191,TAS,renewable,Wind,2011-12,423
+2192,TAS,renewable,Hydro,2011-12,8516
+2194,TAS,renewable,Small-scale solar PV,2011-12,23
+2198,NT,non-renewable ,Natural gas,2011-12,2109
+2199,NT,non-renewable ,Oil products,2011-12,1021
+2202,NT,renewable,Biogas,2011-12,8
+2206,NT,renewable,Small-scale solar PV,2011-12,10
+2208,All,non-renewable ,Black coal,2012-13,111491
+2209,All,non-renewable ,Brown coal,2012-13,47555
+2210,All,non-renewable ,Natural gas,2012-13,51053
+2211,All,non-renewable ,Oil products,2012-13,4464
+2212,All,non-renewable ,Other,2012-13,1 945.3
+2213,All,renewable,"Bagasse, wood",2012-13,1714
+2214,All,renewable,Biogas,2012-13,1 429.2
+2215,All,renewable,Wind,2012-13,7 959.6
+2216,All,renewable,Hydro,2012-13,18270
+2218,All,renewable,Small-scale solar PV,2012-13,3 826.3
+2219,All,renewable,Geothermal,2012-13,1
+2220,NSW,non-renewable ,Black coal,2012-13,56799
+2222,NSW,non-renewable ,Natural gas,2012-13,5169
+2223,NSW,non-renewable ,Oil products,2012-13,191
+2225,NSW,renewable,"Bagasse, wood",2012-13,425
+2226,NSW,renewable,Biogas,2012-13,413
+2227,NSW,renewable,Wind,2012-13,833
+2228,NSW,renewable,Hydro,2012-13,3298
+2230,NSW,renewable,Small-scale solar PV,2012-13,858
+2233,VIC,non-renewable ,Brown coal,2012-13,45318
+2234,VIC,non-renewable ,Natural gas,2012-13,3248
+2235,VIC,non-renewable ,Oil products,2012-13,11
+2237,VIC,renewable,"Bagasse, wood",2012-13,171
+2238,VIC,renewable,Biogas,2012-13,674
+2239,VIC,renewable,Wind,2012-13,2005
+2240,VIC,renewable,Hydro,2012-13,3294
+2242,VIC,renewable,Small-scale solar PV,2012-13,580
+2244,QLD,non-renewable ,Black coal,2012-13,44416
+2246,QLD,non-renewable ,Natural gas,2012-13,13910
+2247,QLD,non-renewable ,Oil products,2012-13,1043
+2248,QLD,non-renewable ,Other,2012-13,54
+2249,QLD,renewable,"Bagasse, wood",2012-13,1118
+2250,QLD,renewable,Biogas,2012-13,121
+2251,QLD,renewable,Wind,2012-13,31
+2252,QLD,renewable,Hydro,2012-13,684
+2254,QLD,renewable,Small-scale solar PV,2012-13,1 310.2
+2255,QLD,renewable,Geothermal,2012-13,1
+2256,WA,non-renewable ,Black coal,2012-13,10277
+2258,WA,non-renewable ,Natural gas,2012-13,17645
+2259,WA,non-renewable ,Oil products,2012-13,2045
+2260,WA,non-renewable ,Other,2012-13,1 855.8
+2262,WA,renewable,Biogas,2012-13,108
+2263,WA,renewable,Wind,2012-13,1 300.2
+2264,WA,renewable,Hydro,2012-13,221
+2266,WA,renewable,Small-scale solar PV,2012-13,450
+2269,SA,non-renewable ,Brown coal,2012-13,2238
+2270,SA,non-renewable ,Natural gas,2012-13,7061
+2271,SA,non-renewable ,Oil products,2012-13,141
+2272,SA,non-renewable ,Other,2012-13,9
+2274,SA,renewable,Biogas,2012-13,73
+2275,SA,renewable,Wind,2012-13,3 313.5
+2276,SA,renewable,Hydro,2012-13,6
+2278,SA,renewable,Small-scale solar PV,2012-13,559
+2282,TAS,non-renewable ,Natural gas,2012-13,1753
+2283,TAS,non-renewable ,Oil products,2012-13,12
+2284,TAS,non-renewable ,Other,2012-13,27
+2286,TAS,renewable,Biogas,2012-13,33
+2287,TAS,renewable,Wind,2012-13,478
+2288,TAS,renewable,Hydro,2012-13,10766
+2290,TAS,renewable,Small-scale solar PV,2012-13,53
+2294,NT,non-renewable ,Natural gas,2012-13,2269
+2295,NT,non-renewable ,Oil products,2012-13,1022
+2298,NT,renewable,Biogas,2012-13,7
+2302,NT,renewable,Small-scale solar PV,2012-13,17
+2304,All,non-renewable ,Black coal,2013-14,106966
+2305,All,non-renewable ,Brown coal,2013-14,46076
+2306,All,non-renewable ,Natural gas,2013-14,54394
+2307,All,non-renewable ,Oil products,2013-14,5012
+2309,All,renewable,"Bagasse, wood",2013-14,2054
+2310,All,renewable,Biogas,2013-14,1 445.9
+2311,All,renewable,Wind,2013-14,10 252.0
+2312,All,renewable,Hydro,2013-14,18421
+2313,All,renewable,Large-scale solar PV,2013-14,50
+2314,All,renewable,Small-scale solar PV,2013-14,4 366.3
+2315,All,renewable,Geothermal,2013-14,1
+2316,NSW,non-renewable ,Black coal,2013-14,55820
+2318,NSW,non-renewable ,Natural gas,2013-14,5528
+2319,NSW,non-renewable ,Oil products,2013-14,171
+2321,NSW,renewable,"Bagasse, wood",2013-14,462
+2322,NSW,renewable,Biogas,2013-14,421
+2323,NSW,renewable,Wind,2013-14,899
+2324,NSW,renewable,Hydro,2013-14,2721
+2325,NSW,renewable,Large-scale solar PV,2013-14,11
+2326,NSW,renewable,Small-scale solar PV,2013-14,965
+2329,VIC,non-renewable ,Brown coal,2013-14,43978
+2330,VIC,non-renewable ,Natural gas,2013-14,3239
+2331,VIC,non-renewable ,Oil products,2013-14,146
+2333,VIC,renewable,"Bagasse, wood",2013-14,189
+2334,VIC,renewable,Biogas,2013-14,698
+2335,VIC,renewable,Wind,2013-14,2772
+2336,VIC,renewable,Hydro,2013-14,2595
+2337,VIC,renewable,Large-scale solar PV,2013-14,4
+2338,VIC,renewable,Small-scale solar PV,2013-14,674
+2340,QLD,non-renewable ,Black coal,2013-14,40261
+2342,QLD,non-renewable ,Natural gas,2013-14,15454
+2343,QLD,non-renewable ,Oil products,2013-14,960
+2345,QLD,renewable,"Bagasse, wood",2013-14,1403
+2346,QLD,renewable,Biogas,2013-14,83
+2347,QLD,renewable,Wind,2013-14,34
+2348,QLD,renewable,Hydro,2013-14,821
+2349,QLD,renewable,Large-scale solar PV,2013-14,4
+2350,QLD,renewable,Small-scale solar PV,2013-14,1 460.6
+2351,QLD,renewable,Geothermal,2013-14,1
+2352,WA,non-renewable ,Black coal,2013-14,10885
+2354,WA,non-renewable ,Natural gas,2013-14,20880
+2355,WA,non-renewable ,Oil products,2013-14,2486
+2358,WA,renewable,Biogas,2013-14,124
+2359,WA,renewable,Wind,2013-14,1 578.8
+2360,WA,renewable,Hydro,2013-14,205
+2361,WA,renewable,Large-scale solar PV,2013-14,24
+2362,WA,renewable,Small-scale solar PV,2013-14,496
+2365,SA,non-renewable ,Brown coal,2013-14,2099
+2366,SA,non-renewable ,Natural gas,2013-14,5998
+2367,SA,non-renewable ,Oil products,2013-14,107
+2370,SA,renewable,Biogas,2013-14,81
+2371,SA,renewable,Wind,2013-14,4 150.3
+2372,SA,renewable,Hydro,2013-14,6
+2373,SA,renewable,Large-scale solar PV,2013-14,1
+2374,SA,renewable,Small-scale solar PV,2013-14,678
+2378,TAS,non-renewable ,Natural gas,2013-14,985
+2379,TAS,non-renewable ,Oil products,2013-14,20
+2382,TAS,renewable,Biogas,2013-14,31
+2383,TAS,renewable,Wind,2013-14,818
+2384,TAS,renewable,Hydro,2013-14,12073
+2385,TAS,renewable,Large-scale solar PV,2013-14,0
+2386,TAS,renewable,Small-scale solar PV,2013-14,74
+2390,NT,non-renewable ,Natural gas,2013-14,2309
+2391,NT,non-renewable ,Oil products,2013-14,1124
+2394,NT,renewable,Biogas,2013-14,9
+2397,NT,renewable,Large-scale solar PV,2013-14,5
+2398,NT,renewable,Small-scale solar PV,2013-14,19
+2400,All,non-renewable ,Black coal,2014-15,107639
+2401,All,non-renewable ,Brown coal,2014-15,50970
+2402,All,non-renewable ,Natural gas,2014-15,52917
+2403,All,non-renewable ,Oil products,2014-15,6829
+2405,All,renewable,"Bagasse, wood",2014-15,2353
+2406,All,renewable,Biogas,2014-15,1 238.9
+2407,All,renewable,Wind,2014-15,11 466.6
+2408,All,renewable,Hydro,2014-15,13445
+2409,All,renewable,Large-scale solar PV,2014-15,107
+2410,All,renewable,Small-scale solar PV,2014-15,5 424.1
+2411,All,renewable,Geothermal,2014-15,1
+2412,NSW,non-renewable ,Black coal,2014-15,52562
+2414,NSW,non-renewable ,Natural gas,2014-15,4528
+2415,NSW,non-renewable ,Oil products,2014-15,284
+2417,NSW,renewable,"Bagasse, wood",2014-15,551
+2418,NSW,renewable,Biogas,2014-15,472
+2419,NSW,renewable,Wind,2014-15,1376
+2420,NSW,renewable,Hydro,2014-15,1771
+2421,NSW,renewable,Large-scale solar PV,2014-15,60
+2422,NSW,renewable,Small-scale solar PV,2014-15,1211
+2425,VIC,non-renewable ,Brown coal,2014-15,48337
+2426,VIC,non-renewable ,Natural gas,2014-15,2391
+2427,VIC,non-renewable ,Oil products,2014-15,156
+2429,VIC,renewable,"Bagasse, wood",2014-15,252
+2430,VIC,renewable,Biogas,2014-15,420
+2431,VIC,renewable,Wind,2014-15,3068
+2432,VIC,renewable,Hydro,2014-15,2514
+2433,VIC,renewable,Large-scale solar PV,2014-15,9
+2434,VIC,renewable,Small-scale solar PV,2014-15,875
+2436,QLD,non-renewable ,Black coal,2014-15,44554
+2438,QLD,non-renewable ,Natural gas,2014-15,18249
+2439,QLD,non-renewable ,Oil products,2014-15,1197
+2441,QLD,renewable,"Bagasse, wood",2014-15,1550
+2442,QLD,renewable,Biogas,2014-15,91
+2443,QLD,renewable,Wind,2014-15,33
+2444,QLD,renewable,Hydro,2014-15,649
+2445,QLD,renewable,Large-scale solar PV,2014-15,6
+2446,QLD,renewable,Small-scale solar PV,2014-15,1 788.0
+2447,QLD,renewable,Geothermal,2014-15,1
+2448,WA,non-renewable ,Black coal,2014-15,10523
+2450,WA,non-renewable ,Natural gas,2014-15,20413
+2451,WA,non-renewable ,Oil products,2014-15,4224
+2454,WA,renewable,Biogas,2014-15,127
+2455,WA,renewable,Wind,2014-15,1 643.2
+2456,WA,renewable,Hydro,2014-15,206
+2457,WA,renewable,Large-scale solar PV,2014-15,24
+2458,WA,renewable,Small-scale solar PV,2014-15,622
+2461,SA,non-renewable ,Brown coal,2014-15,2634
+2462,SA,non-renewable ,Natural gas,2014-15,5004
+2463,SA,non-renewable ,Oil products,2014-15,197
+2466,SA,renewable,Biogas,2014-15,85
+2467,SA,renewable,Wind,2014-15,4 291.9
+2468,SA,renewable,Hydro,2014-15,11
+2469,SA,renewable,Large-scale solar PV,2014-15,2
+2470,SA,renewable,Small-scale solar PV,2014-15,802
+2474,TAS,non-renewable ,Natural gas,2014-15,131
+2475,TAS,non-renewable ,Oil products,2014-15,19
+2478,TAS,renewable,Biogas,2014-15,35
+2479,TAS,renewable,Wind,2014-15,1 055.1
+2480,TAS,renewable,Hydro,2014-15,8294
+2481,TAS,renewable,Large-scale solar PV,2014-15,0
+2482,TAS,renewable,Small-scale solar PV,2014-15,97
+2486,NT,non-renewable ,Natural gas,2014-15,2201
+2487,NT,non-renewable ,Oil products,2014-15,751
+2490,NT,renewable,Biogas,2014-15,9
+2493,NT,renewable,Large-scale solar PV,2014-15,6
+2494,NT,renewable,Small-scale solar PV,2014-15,29
+2496,All,non-renewable ,Black coal,2015-16,114295
+2497,All,non-renewable ,Brown coal,2015-16,48796
+2498,All,non-renewable ,Natural gas,2015-16,50536
+2499,All,non-renewable ,Oil products,2015-16,5656
+2501,All,renewable,"Bagasse, wood",2015-16,2494
+2502,All,renewable,Biogas,2015-16,1 296.1
+2503,All,renewable,Wind,2015-16,12 199.5
+2504,All,renewable,Hydro,2015-16,15318
+2505,All,renewable,Large-scale solar PV,2015-16,457
+2506,All,renewable,Small-scale solar PV,2015-16,6 381.0
+2507,All,renewable,Geothermal,2015-16,0
+2508,NSW,non-renewable ,Black coal,2015-16,55335
+2510,NSW,non-renewable ,Natural gas,2015-16,4629
+2511,NSW,non-renewable ,Oil products,2015-16,290
+2513,NSW,renewable,"Bagasse, wood",2015-16,602
+2514,NSW,renewable,Biogas,2015-16,445
+2515,NSW,renewable,Wind,2015-16,1899
+2516,NSW,renewable,Hydro,2015-16,3170
+2517,NSW,renewable,Large-scale solar PV,2015-16,400
+2518,NSW,renewable,Small-scale solar PV,2015-16,1462
+2520,VIC,non-renewable ,Black coal,2015-16,32
+2521,VIC,non-renewable ,Brown coal,2015-16,46202
+2522,VIC,non-renewable ,Natural gas,2015-16,1892
+2523,VIC,non-renewable ,Oil products,2015-16,71
+2525,VIC,renewable,"Bagasse, wood",2015-16,235
+2526,VIC,renewable,Biogas,2015-16,512
+2527,VIC,renewable,Wind,2015-16,3342
+2528,VIC,renewable,Hydro,2015-16,3229
+2529,VIC,renewable,Large-scale solar PV,2015-16,12
+2530,VIC,renewable,Small-scale solar PV,2015-16,1056
+2532,QLD,non-renewable ,Black coal,2015-16,48016
+2534,QLD,non-renewable ,Natural gas,2015-16,13817
+2535,QLD,non-renewable ,Oil products,2015-16,1199
+2537,QLD,renewable,"Bagasse, wood",2015-16,1656
+2538,QLD,renewable,Biogas,2015-16,116
+2539,QLD,renewable,Wind,2015-16,28
+2540,QLD,renewable,Hydro,2015-16,492
+2541,QLD,renewable,Large-scale solar PV,2015-16,7
+2542,QLD,renewable,Small-scale solar PV,2015-16,2 055.9
+2543,QLD,renewable,Geothermal,2015-16,0
+2544,WA,non-renewable ,Black coal,2015-16,10913
+2546,WA,non-renewable ,Natural gas,2015-16,21900
+2547,WA,non-renewable ,Oil products,2015-16,3347
+2549,WA,renewable,"Bagasse, wood",2015-16,0
+2550,WA,renewable,Biogas,2015-16,94
+2551,WA,renewable,Wind,2015-16,1 476.5
+2552,WA,renewable,Hydro,2015-16,217
+2553,WA,renewable,Large-scale solar PV,2015-16,28
+2554,WA,renewable,Small-scale solar PV,2015-16,761
+2557,SA,non-renewable ,Brown coal,2015-16,2594
+2558,SA,non-renewable ,Natural gas,2015-16,4956
+2559,SA,non-renewable ,Oil products,2015-16,136
+2562,SA,renewable,Biogas,2015-16,95
+2563,SA,renewable,Wind,2015-16,4 398.0
+2564,SA,renewable,Hydro,2015-16,7
+2565,SA,renewable,Large-scale solar PV,2015-16,2
+2566,SA,renewable,Small-scale solar PV,2015-16,896
+2570,TAS,non-renewable ,Natural gas,2015-16,858
+2571,TAS,non-renewable ,Oil products,2015-16,90
+2574,TAS,renewable,Biogas,2015-16,27
+2575,TAS,renewable,Wind,2015-16,1 056.0
+2576,TAS,renewable,Hydro,2015-16,8204
+2577,TAS,renewable,Large-scale solar PV,2015-16,0
+2578,TAS,renewable,Small-scale solar PV,2015-16,109
+2582,NT,non-renewable ,Natural gas,2015-16,2485
+2583,NT,non-renewable ,Oil products,2015-16,523
+2586,NT,renewable,Biogas,2015-16,8
+2589,NT,renewable,Large-scale solar PV,2015-16,9
+2590,NT,renewable,Small-scale solar PV,2015-16,42
+2592,All,non-renewable ,Black coal,2016-17,118272
+2593,All,non-renewable ,Brown coal,2016-17,43558
+2594,All,non-renewable ,Natural gas,2016-17,50460
+2595,All,non-renewable ,Oil products,2016-17,5273
+2597,All,renewable,"Bagasse, wood",2016-17,2308
+2598,All,renewable,Biogas,2016-17,1 192.5
+2599,All,renewable,Wind,2016-17,12 597.0
+2600,All,renewable,Hydro,2016-17,16285
+2601,All,renewable,Large-scale solar PV,2016-17,672
+2602,All,renewable,Small-scale solar PV,2016-17,7 399.3
+2603,All,renewable,Geothermal,2016-17,1
+2604,NSW,non-renewable ,Black coal,2016-17,55967
+2606,NSW,non-renewable ,Natural gas,2016-17,3331
+2607,NSW,non-renewable ,Oil products,2016-17,322
+2609,NSW,renewable,"Bagasse, wood",2016-17,697
+2610,NSW,renewable,Biogas,2016-17,406
+2611,NSW,renewable,Wind,2016-17,1872
+2612,NSW,renewable,Hydro,2016-17,3291
+2613,NSW,renewable,Large-scale solar PV,2016-17,568
+2614,NSW,renewable,Small-scale solar PV,2016-17,1707
+2616,VIC,non-renewable ,Black coal,2016-17,36
+2617,VIC,non-renewable ,Brown coal,2016-17,43558
+2618,VIC,non-renewable ,Natural gas,2016-17,2659
+2619,VIC,non-renewable ,Oil products,2016-17,109
+2621,VIC,renewable,"Bagasse, wood",2016-17,263
+2622,VIC,renewable,Biogas,2016-17,431
+2623,VIC,renewable,Wind,2016-17,3561
+2624,VIC,renewable,Hydro,2016-17,3673
+2625,VIC,renewable,Large-scale solar PV,2016-17,14
+2626,VIC,renewable,Small-scale solar PV,2016-17,1232
+2628,QLD,non-renewable ,Black coal,2016-17,51043
+2630,QLD,non-renewable ,Natural gas,2016-17,12237
+2631,QLD,non-renewable ,Oil products,2016-17,1216
+2633,QLD,renewable,"Bagasse, wood",2016-17,1292
+2634,QLD,renewable,Biogas,2016-17,118
+2635,QLD,renewable,Wind,2016-17,29
+2636,QLD,renewable,Hydro,2016-17,672
+2637,QLD,renewable,Large-scale solar PV,2016-17,34
+2638,QLD,renewable,Small-scale solar PV,2016-17,2 335.9
+2639,QLD,renewable,Geothermal,2016-17,1
+2640,WA,non-renewable ,Black coal,2016-17,11226
+2642,WA,non-renewable ,Natural gas,2016-17,22941
+2643,WA,non-renewable ,Oil products,2016-17,2884
+2645,WA,renewable,"Bagasse, wood",2016-17,56
+2646,WA,renewable,Biogas,2016-17,127
+2647,WA,renewable,Wind,2016-17,1 616.7
+2648,WA,renewable,Hydro,2016-17,213
+2649,WA,renewable,Large-scale solar PV,2016-17,34
+2650,WA,renewable,Small-scale solar PV,2016-17,941
+2653,SA,non-renewable ,Brown coal,2016-17,0
+2654,SA,non-renewable ,Natural gas,2016-17,6028
+2655,SA,non-renewable ,Oil products,2016-17,183
+2658,SA,renewable,Biogas,2016-17,78
+2659,SA,renewable,Wind,2016-17,4 413.7
+2660,SA,renewable,Hydro,2016-17,4
+2661,SA,renewable,Large-scale solar PV,2016-17,4
+2662,SA,renewable,Small-scale solar PV,2016-17,1 000.8
+2666,TAS,non-renewable ,Natural gas,2016-17,898
+2667,TAS,non-renewable ,Oil products,2016-17,22
+2670,TAS,renewable,Biogas,2016-17,25
+2671,TAS,renewable,Wind,2016-17,1 104.8
+2672,TAS,renewable,Hydro,2016-17,8433
+2673,TAS,renewable,Large-scale solar PV,2016-17,0
+2674,TAS,renewable,Small-scale solar PV,2016-17,122
+2678,NT,non-renewable ,Natural gas,2016-17,2367
+2679,NT,non-renewable ,Oil products,2016-17,537
+2682,NT,renewable,Biogas,2016-17,8
+2685,NT,renewable,Large-scale solar PV,2016-17,19
+2686,NT,renewable,Small-scale solar PV,2016-17,61
+2688,All,non-renewable ,Black coal,2017-18,121702
+2689,All,non-renewable ,Brown coal,2017-18,36008
+2690,All,non-renewable ,Natural gas,2017-18,53882
+2691,All,non-renewable ,Oil products,2017-18,4821
+2693,All,renewable,"Bagasse, wood",2017-18,2264
+2694,All,renewable,Biogas,2017-18,1 253.3
+2695,All,renewable,Wind,2017-18,15 174.4
+2696,All,renewable,Hydro,2017-18,16021
+2697,All,renewable,Large-scale solar PV,2017-18,1008
+2698,All,renewable,Small-scale solar PV,2017-18,8 922.4
+2699,All,renewable,Geothermal,2017-18,0
+2700,NSW,non-renewable ,Black coal,2017-18,57022
+2702,NSW,non-renewable ,Natural gas,2017-18,3046
+2703,NSW,non-renewable ,Oil products,2017-18,324
+2705,NSW,renewable,"Bagasse, wood",2017-18,765
+2706,NSW,renewable,Biogas,2017-18,424
+2707,NSW,renewable,Wind,2017-18,2432
+2708,NSW,renewable,Hydro,2017-18,2916
+2709,NSW,renewable,Large-scale solar PV,2017-18,700
+2710,NSW,renewable,Small-scale solar PV,2017-18,2096
+2712,VIC,non-renewable ,Black coal,2017-18,13
+2713,VIC,non-renewable ,Brown coal,2017-18,36008
+2714,VIC,non-renewable ,Natural gas,2017-18,3830
+2715,VIC,non-renewable ,Oil products,2017-18,178
+2717,VIC,renewable,"Bagasse, wood",2017-18,241
+2718,VIC,renewable,Biogas,2017-18,460
+2719,VIC,renewable,Wind,2017-18,4304
+2720,VIC,renewable,Hydro,2017-18,2803
+2721,VIC,renewable,Large-scale solar PV,2017-18,39
+2722,VIC,renewable,Small-scale solar PV,2017-18,1481
+2724,QLD,non-renewable ,Black coal,2017-18,53635
+2726,QLD,non-renewable ,Natural gas,2017-18,11046
+2727,QLD,non-renewable ,Oil products,2017-18,1048
+2729,QLD,renewable,"Bagasse, wood",2017-18,1253
+2730,QLD,renewable,Biogas,2017-18,127
+2731,QLD,renewable,Wind,2017-18,30
+2732,QLD,renewable,Hydro,2017-18,646
+2733,QLD,renewable,Large-scale solar PV,2017-18,172
+2734,QLD,renewable,Small-scale solar PV,2017-18,2 760.9
+2736,WA,non-renewable ,Black coal,2017-18,11032
+2738,WA,non-renewable ,Natural gas,2017-18,24789
+2739,WA,non-renewable ,Oil products,2017-18,2167
+2741,WA,renewable,"Bagasse, wood",2017-18,6
+2742,WA,renewable,Biogas,2017-18,136
+2743,WA,renewable,Wind,2017-18,1 587.0
+2744,WA,renewable,Hydro,2017-18,221
+2745,WA,renewable,Large-scale solar PV,2017-18,46
+2746,WA,renewable,Small-scale solar PV,2017-18,1196
+2749,SA,non-renewable ,Brown coal,2017-18,0
+2750,SA,non-renewable ,Natural gas,2017-18,7753
+2751,SA,non-renewable ,Oil products,2017-18,133
+2754,SA,renewable,Biogas,2017-18,74
+2755,SA,renewable,Wind,2017-18,5 673.9
+2756,SA,renewable,Hydro,2017-18,6
+2757,SA,renewable,Large-scale solar PV,2017-18,20
+2758,SA,renewable,Small-scale solar PV,2017-18,1 163.4
+2762,TAS,non-renewable ,Natural gas,2017-18,980
+2763,TAS,non-renewable ,Oil products,2017-18,24
+2766,TAS,renewable,Biogas,2017-18,24
+2767,TAS,renewable,Wind,2017-18,1 147.8
+2768,TAS,renewable,Hydro,2017-18,9429
+2769,TAS,renewable,Large-scale solar PV,2017-18,1
+2770,TAS,renewable,Small-scale solar PV,2017-18,139
+2774,NT,non-renewable ,Natural gas,2017-18,2438
+2775,NT,non-renewable ,Oil products,2017-18,947
+2778,NT,renewable,Biogas,2017-18,9
+2781,NT,renewable,Large-scale solar PV,2017-18,31
+2782,NT,renewable,Small-scale solar PV,2017-18,86
+2784,All,non-renewable ,Black coal,2018-19,119845
+2785,All,non-renewable ,Brown coal,2018-19,34460
+2786,All,non-renewable ,Natural gas,2018-19,52775
+2787,All,non-renewable ,Oil products,2018-19,4923
+2789,All,renewable,"Bagasse, wood",2018-19,2164
+2790,All,renewable,Biogas,2018-19,1 332.2
+2791,All,renewable,Wind,2018-19,17 712.0
+2792,All,renewable,Hydro,2018-19,15967
+2793,All,renewable,Large-scale solar PV,2018-19,3732
+2794,All,renewable,Small-scale solar PV,2018-19,11 116.2
+2795,All,renewable,Geothermal,2018-19,0
+2796,NSW,non-renewable ,Black coal,2018-19,57735
+2798,NSW,non-renewable ,Natural gas,2018-19,2360
+2799,NSW,non-renewable ,Oil products,2018-19,323
+2801,NSW,renewable,"Bagasse, wood",2018-19,759
+2802,NSW,renewable,Biogas,2018-19,419
+2803,NSW,renewable,Wind,2018-19,3740
+2804,NSW,renewable,Hydro,2018-19,2160
+2805,NSW,renewable,Large-scale solar PV,2018-19,1348
+2806,NSW,renewable,Small-scale solar PV,2018-19,2717
+2808,VIC,non-renewable ,Black coal,2018-19,35
+2809,VIC,non-renewable ,Brown coal,2018-19,34460
+2810,VIC,non-renewable ,Natural gas,2018-19,3334
+2811,VIC,non-renewable ,Oil products,2018-19,205
+2813,VIC,renewable,"Bagasse, wood",2018-19,236
+2814,VIC,renewable,Biogas,2018-19,498
+2815,VIC,renewable,Wind,2018-19,4864
+2816,VIC,renewable,Hydro,2018-19,2703
+2817,VIC,renewable,Large-scale solar PV,2018-19,463
+2818,VIC,renewable,Small-scale solar PV,2018-19,1900
+2820,QLD,non-renewable ,Black coal,2018-19,52121
+2822,QLD,non-renewable ,Natural gas,2018-19,9934
+2823,QLD,non-renewable ,Oil products,2018-19,1001
+2825,QLD,renewable,"Bagasse, wood",2018-19,1158
+2826,QLD,renewable,Biogas,2018-19,175
+2827,QLD,renewable,Wind,2018-19,399
+2828,QLD,renewable,Hydro,2018-19,1057
+2829,QLD,renewable,Large-scale solar PV,2018-19,1492
+2830,QLD,renewable,Small-scale solar PV,2018-19,3 330.2
+2832,WA,non-renewable ,Black coal,2018-19,9954
+2834,WA,non-renewable ,Natural gas,2018-19,25778
+2835,WA,non-renewable ,Oil products,2018-19,2418
+2837,WA,renewable,"Bagasse, wood",2018-19,11
+2838,WA,renewable,Biogas,2018-19,120
+2839,WA,renewable,Wind,2018-19,1 851.2
+2840,WA,renewable,Hydro,2018-19,217
+2841,WA,renewable,Large-scale solar PV,2018-19,75
+2842,WA,renewable,Small-scale solar PV,2018-19,1487
+2845,SA,non-renewable ,Brown coal,2018-19,0
+2846,SA,non-renewable ,Natural gas,2018-19,7246
+2847,SA,non-renewable ,Oil products,2018-19,163
+2850,SA,renewable,Biogas,2018-19,85
+2851,SA,renewable,Wind,2018-19,5 711.0
+2852,SA,renewable,Hydro,2018-19,9
+2853,SA,renewable,Large-scale solar PV,2018-19,321
+2854,SA,renewable,Small-scale solar PV,2018-19,1 402.5
+2858,TAS,non-renewable ,Natural gas,2018-19,620
+2859,TAS,non-renewable ,Oil products,2018-19,19
+2862,TAS,renewable,Biogas,2018-19,27
+2863,TAS,renewable,Wind,2018-19,1 147.2
+2864,TAS,renewable,Hydro,2018-19,9821
+2865,TAS,renewable,Large-scale solar PV,2018-19,2
+2866,TAS,renewable,Small-scale solar PV,2018-19,162
+2870,NT,non-renewable ,Natural gas,2018-19,3503
+2871,NT,non-renewable ,Oil products,2018-19,795
+2874,NT,renewable,Biogas,2018-19,9
+2877,NT,renewable,Large-scale solar PV,2018-19,33
+2878,NT,renewable,Small-scale solar PV,2018-19,118
+2880,All,non-renewable ,Black coal,2019-20,111873
+2881,All,non-renewable ,Brown coal,2019-20,33649
+2882,All,non-renewable ,Natural gas,2019-20,55216
+2883,All,non-renewable ,Oil products,2019-20,4509
+2885,All,renewable,"Bagasse, wood",2019-20,1998
+2886,All,renewable,Biogas,2019-20,1 353.5
+2887,All,renewable,Wind,2019-20,20 395.9
+2888,All,renewable,Hydro,2019-20,15150
+2889,All,renewable,Large-scale solar PV,2019-20,7136
+2890,All,renewable,Small-scale solar PV,2019-20,13 897.1
+2891,All,renewable,Geothermal,2019-20,0
+2892,NSW,non-renewable ,Black coal,2019-20,53567
+2894,NSW,non-renewable ,Natural gas,2019-20,2871
+2895,NSW,non-renewable ,Oil products,2019-20,337
+2897,NSW,renewable,"Bagasse, wood",2019-20,716
+2898,NSW,renewable,Biogas,2019-20,387
+2899,NSW,renewable,Wind,2019-20,4574
+2900,NSW,renewable,Hydro,2019-20,2110
+2901,NSW,renewable,Large-scale solar PV,2019-20,2085
+2902,NSW,renewable,Small-scale solar PV,2019-20,3417
+2904,VIC,non-renewable ,Black coal,2019-20,12
+2905,VIC,non-renewable ,Brown coal,2019-20,33649
+2906,VIC,non-renewable ,Natural gas,2019-20,3117
+2907,VIC,non-renewable ,Oil products,2019-20,202
+2909,VIC,renewable,"Bagasse, wood",2019-20,244
+2910,VIC,renewable,Biogas,2019-20,536
+2911,VIC,renewable,Wind,2019-20,5596
+2912,VIC,renewable,Hydro,2019-20,2311
+2913,VIC,renewable,Large-scale solar PV,2019-20,873
+2914,VIC,renewable,Small-scale solar PV,2019-20,2457
+2916,QLD,non-renewable ,Black coal,2019-20,48569
+2918,QLD,non-renewable ,Natural gas,2019-20,11214
+2919,QLD,non-renewable ,Oil products,2019-20,984
+2921,QLD,renewable,"Bagasse, wood",2019-20,1030
+2922,QLD,renewable,Biogas,2019-20,189
+2923,QLD,renewable,Wind,2019-20,928
+2924,QLD,renewable,Hydro,2019-20,635
+2925,QLD,renewable,Large-scale solar PV,2019-20,3335
+2926,QLD,renewable,Small-scale solar PV,2019-20,4 120.2
+2928,WA,non-renewable ,Black coal,2019-20,9725
+2930,WA,non-renewable ,Natural gas,2019-20,26919
+2931,WA,non-renewable ,Oil products,2019-20,2302
+2933,WA,renewable,"Bagasse, wood",2019-20,8
+2934,WA,renewable,Biogas,2019-20,104
+2935,WA,renewable,Wind,2019-20,2 122.5
+2936,WA,renewable,Hydro,2019-20,206
+2937,WA,renewable,Large-scale solar PV,2019-20,175
+2938,WA,renewable,Small-scale solar PV,2019-20,1835
+2942,SA,non-renewable ,Natural gas,2019-20,6614
+2943,SA,non-renewable ,Oil products,2019-20,159
+2946,SA,renewable,Biogas,2019-20,97
+2947,SA,renewable,Wind,2019-20,5 812.9
+2948,SA,renewable,Hydro,2019-20,10
+2949,SA,renewable,Large-scale solar PV,2019-20,628
+2950,SA,renewable,Small-scale solar PV,2019-20,1 717.6
+2954,TAS,non-renewable ,Natural gas,2019-20,197
+2955,TAS,non-renewable ,Oil products,2019-20,21
+2958,TAS,renewable,Biogas,2019-20,31
+2959,TAS,renewable,Wind,2019-20,1 362.0
+2960,TAS,renewable,Hydro,2019-20,9878
+2961,TAS,renewable,Large-scale solar PV,2019-20,3
+2962,TAS,renewable,Small-scale solar PV,2019-20,187
+2966,NT,non-renewable ,Natural gas,2019-20,4285
+2967,NT,non-renewable ,Oil products,2019-20,504
+2970,NT,renewable,Biogas,2019-20,9
+2973,NT,renewable,Large-scale solar PV,2019-20,39
+2974,NT,renewable,Small-scale solar PV,2019-20,162
