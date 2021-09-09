@@ -15,18 +15,16 @@ df = pd.read_sql("energy_gen", engine)
 
 # Define routes
 @app.route("/")
-def index():
-    return render_template("index.html")
+def home():
+    return render_template("home.html")
 
-# @app.route("/about_data")
-# def About_Data():
-#     return render_template("about_data.html")
+@app.route("/about")
+def about():
+    return render_template("about.html")
 
 @app.route("/api")
 def return_all():
-    # return df.to_json()
-    # return jsonify(area =list (df["area"]), category = list (df["category"]), fuel_type = list (df["fuel_type"]))
-    return jsonify(results=[{"area": row["area"], "category": row["category"], "fuel_type": row["fuel_type"], "year": row["year"], "energy_gen":row["energy_gen"] } for idx, row in df.iterrows()])
+       return jsonify(results=[{"area": row["area"], "category": row["category"], "fuel_type": row["fuel_type"], "year": row["year"], "energy_gen":row["energy_gen"] } for idx, row in df.iterrows()])
 
 @app.route("/api/<TYPE>")
 def return_filtered(TYPE):
