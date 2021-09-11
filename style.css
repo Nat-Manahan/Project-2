@@ -1,0 +1,47 @@
+
+* {
+  position: relative;
+    margin: 0;
+  padding: 0;
+  font-family: Ubuntu, sans-serif;
+}
+
+html {
+  font-size: 100%;
+  font-family: Georgia, serif;
+}
+
+.map {
+  position:absolute ;
+  width: 80%;
+  height: 40%;
+  height: 50vh;
+ 
+
+  font-family: inherit;
+  font-size: inherit;
+  background: transparent;
+}
+
+.leaflet-tile-pane { opacity: .15; }
+
+
+.leaflet-bar {
+  -webkit-user-select: none;
+  -moz-user-select: -moz-none;
+  -moz-user-select: none;
+  user-select: none;
+  border-radius: 2px;
+  box-shadow: 0 0 4px rgba(0,0,0,.5);
+}
+#table-area th {
+  text-align: center;
+  position: relative;
+    left: 60px;
+}
+#table-area tbody td {
+    text-align: center;
+    font-weight: bold;
+    position: relative;
+    left: 60px;
+}
