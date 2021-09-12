@@ -18,7 +18,7 @@
 var All="Australia"
  
 
-  $.getJSON("../data/states.min.geojson", function(data) {
+$.getJSON("states.min.geojson", function(data) {
 
     var info = L.control();
 

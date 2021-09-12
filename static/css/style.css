@@ -3,9 +3,6 @@
     padding:0;
     box-sizing: border-box;
     position: relative;
-    margin: 0;
-    padding: 0;
-    font-family: Ubuntu, sans-serif;
 }
 
 body{
@@ -47,16 +44,16 @@ footer{
 }
   
   html {
-    font-size: 100%;
+    font-size: 120%;
     font-family: Georgia, serif;
   }
   
   .map {
-    position:absolute ;
-    width: 80%;
+    position:relative ;
+    width: 40%;
     height: 40%;
     height: 50vh;
-   
+  
   
     font-family: inherit;
     font-size: inherit;
@@ -74,15 +71,28 @@ footer{
     border-radius: 2px;
     box-shadow: 0 0 4px rgba(0,0,0,.5);
   }
+
   #table-area th {
     text-align: center;
     position: relative;
-      left: 60px;
+    left: 60px;
+  font-size: 60%;
+  font-weight: bold;
+ table-layout: auto;
+ width: 1px;
+  
+ 
+
   }
+
+
   #table-area tbody td {
       text-align: center;
       font-weight: bold;
       position: relative;
+     
       left: 60px;
+      font-size: 60%;
+
   }
   
