@@ -4,15 +4,16 @@ from sqlalchemy import create_engine
 import pandas as pd
 from config import db_password
 
-# Flask setup 
+# flask setup 
 app = Flask(__name__)
 
+# database setup
 db_string = f"postgresql://postgres:{db_password}@127.0.0.1:5432/Project 2"
 engine = create_engine(db_string)
 df = pd.read_sql("energy_gen", engine)
 
 
-# Define routes
+# define routes
 @app.route("/")
 def home():
     return render_template("home.html")
@@ -36,12 +37,6 @@ def return_fuel(FUEL):
     print(FUEL)
     fuel_filter_df = df.loc[df["fuel_type"]==FUEL]
     return jsonify(results=[{"area": row["area"], "category": row["category"], "fuel_type": row["fuel_type"], "year": row["year"], "energy_gen":row["energy_gen"] } for idx, row in fuel_filter_df.iterrows()])
-
-@app.route("/api/<YEAR>")
-def return_year(YEAR):
-    print(YEAR)
-    year_filter_df = df.loc[df["year"]==YEAR]
-    return jsonify(results=[{"area": row["area"], "category": row["category"], "fuel_type": row["fuel_type"], "year": row["year"], "energy_gen":row["energy_gen"] } for idx, row in year_filter_df.iterrows()])
 
 if __name__ == '__main__':
     app.run(debug=True)
