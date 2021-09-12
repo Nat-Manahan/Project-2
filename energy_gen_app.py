@@ -25,9 +25,9 @@ def about():
 def return_all():
        return jsonify(results=[{"area": row["area"], "category": row["category"], "fuel_type": row["fuel_type"], "year": row["year"], "energy_gen":row["energy_gen"] } for idx, row in df.iterrows()])
 
-@app.route("/api/<TYPE>")
-def return_filtered(TYPE):
-    print(TYPE)
+@app.route("/api/<CATEGORY>")
+def return_filtered(CATEGORY):
+    print(CATEGORY)
     filtered_df = df.loc[df["category"]==TYPE]
     return jsonify(results=[{"area": row["area"], "category": row["category"], "fuel_type": row["fuel_type"], "year": row["year"], "energy_gen":row["energy_gen"] } for idx, row in filtered_df.iterrows()])
 
