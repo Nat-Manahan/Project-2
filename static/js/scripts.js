@@ -9,9 +9,6 @@
         cell.text(value);
     })
 });
-
-
-
   var map = L.map('map', {
     attributionControl: false
   });

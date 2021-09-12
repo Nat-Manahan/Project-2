@@ -6,20 +6,23 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- Bootstrap CSS -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
+    <!-- <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous"> -->
 
-  <!-- <title>Australian Energy Generation</title> -->
+    <!-- CSS link  -->
+    <link rel="stylesheet" type="text/css" href="../static/css/style.css">
+
+    <title>Australian Energy Generation</title>
   </head>
   <body>
     
-<!-- Webpage header & navigation bar -->
-    <nav class="navbar navbar-expand-lg navbar-dark bg-success">
-            <div class="container-fluid ">
-        <span class="navbar-brand mb-0 h1 fs-1">Australia's Energy Generation</span>
-      </div>
-    </nav>
-    
-    <nav class="navbar navbar-expand-lg navbar-light bg-success p-1 text-dark bg-opacity-25">
+    <!-- Webpage header & footer -->
+    <header>
+      <h1>Australia's Energy Generation</h1>
+    </header>
+
+
+    <!-- Webpage nav bar -->
+    <!-- <nav class="navbar navbar-expand-lg navbar-light bg-success p-1 text-dark bg-opacity-25">
       <div class="container-fluid">
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
@@ -34,13 +37,32 @@
         </li>
       </ul>
     </div>
-    </nav>
+    </nav> -->
+
+    <div class="container">
+      <div>
+        <p>A secure supply of adequate, clean, reliable energy at an affordable price is vital for Australia’s economic growth and prosperity. Fortunately, Australia is well endowed with an abundance of both fossil and renewable fuels. 
+          Our energy resources power our homes, cars and industry, and are a key contributor to Australia’s economic prosperity.
+          To date Australia’s energy needs have been largely met by fossil fuels. At present renewable energy sources account for only modest proportions of Australia’s primary energy consumption (around 5 per cent) and electricity generation (7 per cent), although their use has been increasing strongly in recent years.
+          Data on Australia’s energy generation is publicly available through the Australian Government’s energy website, the statistics cover all electricity generation in Australia, including by power plants and by businesses and households for their own use.</p>
+      </div>
+    </div>
+    
+    <!-- Webpage footer -->
+    <footer>
+      <p>PROJECT 2 ---- GROUP 6: Therese Reed, Chao Wang & Natalie Manahan</p>
+    </footer>
 
 
-     <!-- Bootstrap Bundle with Popper --> -->
-     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-U1DAWAznBHeqEIlVSCgzq+c9gqGAJn5c/t99JyeKa9xxaYpSvHU5awsuZVVFIhvj" crossorigin="anonymous"></script>
+
+
+
+
+
+     <!-- Bootstrap Bundle with Popper -->
+     <!-- <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-U1DAWAznBHeqEIlVSCgzq+c9gqGAJn5c/t99JyeKa9xxaYpSvHU5awsuZVVFIhvj" crossorigin="anonymous"></script>
      <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.0.1/d3.min.js" integrity="sha512-1e0JvdNhUkvFbAURPPlFKcX0mWu/b6GT9e0uve7BW4MFxJ15q4ZCd/Llz+B7/oh+qhw7/l6Q1ObPt6aAuR01+Q==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-     <script src="{{url_for('static', filename='js/plots.js')}}"></script>
+     <script src="{{url_for('static', filename='js/plots.js')}}"></script> -->
     
    </body>
  </html>

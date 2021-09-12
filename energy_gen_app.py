@@ -12,7 +12,6 @@ engine = create_engine(db_string)
 df = pd.read_sql("energy_gen", engine)
 
 
-
 # Define routes
 @app.route("/")
 def home():
