@@ -8,7 +8,7 @@ from config import db_password
 app = Flask(__name__)
 
 # database setup
-db_string = f"postgresql://postgres:{db_password}@127.0.0.1:5432/Project 2"
+db_string = f"postgresql://postgres:{db_password}@127.0.0.1:5432/energy-gen"
 engine = create_engine(db_string)
 df = pd.read_sql("energy_gen", engine)
 
@@ -29,7 +29,7 @@ def return_all():
 @app.route("/api/<CATEGORY>")
 def return_filtered(CATEGORY):
     print(CATEGORY)
-    filtered_df = df.loc[df["category"]==TYPE]
+    filtered_df = df.loc[df["category"]==CATEGORY]
     return jsonify(results=[{"area": row["area"], "category": row["category"], "fuel_type": row["fuel_type"], "year": row["year"], "energy_gen":row["energy_gen"] } for idx, row in filtered_df.iterrows()])
 
 @app.route("/api/<FUEL>")
