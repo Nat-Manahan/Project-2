@@ -17,7 +17,8 @@ df = pd.read_sql("energy_gen", engine)
 @app.route("/")
 def home():
     y_val = df["year"].unique()
-    return render_template("home.html", y_val=y_val)
+    x_val = df["fuel_type"].unique()
+    return render_template("home.html", y_val=y_val, x_val=x_val)
 
 @app.route("/about")
 def about():
@@ -33,6 +34,7 @@ def return_all():
 #     filtered_df = df.loc[df["category"]==TYPE]
 #     return jsonify(results=[{"area": row["area"], "category": row["category"], "fuel_type": row["fuel_type"], "year": row["year"], "energy_gen":row["energy_gen"] } for idx, row in filtered_df.iterrows()])
 
+# app route for fuel doughnutchart and DD 
 @app.route("/api/fuel/<YEAR>")
 def return_fuel(YEAR):
     print(YEAR)
@@ -40,6 +42,17 @@ def return_fuel(YEAR):
     fuel_vc = fuel_filter_df.groupby("fuel_type")["energy_gen"].sum().reset_index()
     print(fuel_vc)
     return jsonify(results=[{"fuel_type": row["fuel_type"], "energy_gen": row["energy_gen"] } for idx, row in fuel_vc.iterrows()])
+
+
+# app route for year barchart and DD 
+@app.route("/api/year/<FUEL>")
+def return_year(FUEL):
+    print(FUEL)
+    year_filter_df = df.loc[(df["fuel"]==FUEL) & (df["area"]=="All")]
+    year_vc = year_filter_df.groupby("year")["energy_gen"].sum().reset_index()
+    print(year_vc)
+    return jsonify(results=[{"year": row["year"], "energy_gen": row["energy_gen"] } for idx, row in year_vc.iterrows()])
+
 
 if __name__ == '__main__':
     app.run(debug=True)

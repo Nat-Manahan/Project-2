@@ -1,6 +1,8 @@
 * {
     margin: 0;
     padding:0;
+    list-style: none;
+    text-decoration: none;
     box-sizing: border-box;
     position: relative;
 }
@@ -14,7 +16,7 @@ body{
     line-height: 2em;
     position:relative;
     padding-bottom: 30px;
-    min-height: 100vh;
+    min-height: 100%; 
 }
 
 .container{
@@ -28,19 +30,15 @@ body{
   text-align: left;
 }
 
-/* .container2{
-  width: 100%;
-  padding-top: 5px;
-  padding-bottom: 5px;
-  padding-left: 5px;
-  text-align: left;
-} */
-
 header{
-    text-align: left;
-    background-color: #0a8552;
-    color: white;
-    padding: 25px;
+  width: 100%;
+  height: 8vh;
+  display: block;
+  background-color: #0a8552;
+  color: white;
+  padding: 10px;
+  font-size: 38px;
+  
 }
 
 header h1 {
@@ -49,25 +47,26 @@ header h1 {
 }
 
 .doughnut {
-  width: 800px;
-  height: 800px
+  width: 700px;
+  height: 700px
 }
 
 
 footer{
-    text-align: left;
+  width: 100%;
+  height: 5vh;
+  display: block;
+  text-align: left;
     background-color: #0a8552;
     color: white;
     padding: 10px;
     position: absolute;
     bottom:0;
+    margin-top: auto;
+    font-weight: bold;
+
 }
-  
-  html {
-    font-size: 120%;
-    font-family: Georgia, serif;
-  }
-  
+    
   .map {
     position:relative ;
     width: 40%;
@@ -96,13 +95,11 @@ footer{
     text-align: center;
     position: relative;
     left: 60px;
-  font-size: 60%;
+  font-size: 11px;
   font-weight: bold;
  table-layout: auto;
  width: 1px;
-  
- 
-
+ padding-bottom: 10px;
   }
 
 
@@ -112,7 +109,6 @@ footer{
       position: relative;
      
       left: 60px;
-      font-size: 60%;
-
+      font-size: 11px;
   }
   

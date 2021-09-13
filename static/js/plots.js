@@ -44,22 +44,22 @@ function makeDoughnut(fuelData){
             datasets: [ {
                 data: fuelData.results.map(d => d.energy_gen),
                 backgroundColor: [
-                    "red",
-                    "blue",
-                    "green",
-                    "yellow",
-                    "purple",
-                    "orange",
-                    "yellowgreen",
-                    "grey",
-                    "black",
-                    "navy",
-                    "darkgrey",
-                    "lightgrey",
-                    "tomato",
+                    "#C21460",
+                    "#FE2712",
+                    "#FC600A",
+
+                    "#FB9902",
+                    "#FCCB1A",
+                    "#FEFE33",
+
+                    "#B2D732",
+                    "#66B032",
+                    "#347B98",
+
+                    "#0247FE",
+                    "#8601AF",
                     "brown",
                     "pink",
-                    "magenta",
                     "teal"
                 ]
             }]
