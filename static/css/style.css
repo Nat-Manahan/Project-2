@@ -9,30 +9,50 @@ body{
     background-color: #f8fffb;
     color: rgb(3, 1, 7);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 16px;
+    font-size: 14px;
     font-weight: normal;
     line-height: 2em;
     position:relative;
-    padding-bottom: 58px;
+    padding-bottom: 30px;
     min-height: 100vh;
 }
 
 .container{
-    width:90%;
+    width:95%;
     margin:auto;
 }
+
+.container1{
+  width: 95%;
+  padding: 10px;
+  text-align: left;
+}
+
+/* .container2{
+  width: 100%;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 5px;
+  text-align: left;
+} */
 
 header{
     text-align: left;
     background-color: #0a8552;
     color: white;
-    padding: 40px;
+    padding: 25px;
 }
 
 header h1 {
-    font-size: 35px;
+    font-size:38px;
     margin-bottom: 5px;
 }
+
+.doughnut {
+  width: 800px;
+  height: 800px
+}
+
 
 footer{
     text-align: left;
