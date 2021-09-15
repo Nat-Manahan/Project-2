@@ -1,4 +1,4 @@
-console.log("READY FOR DUTY DIR")
+console.log("DOUGHNUT CHART")
 var doughnutChart;
 var dropdown = d3.select("#resource-dd")
 
@@ -23,7 +23,6 @@ function handleFuelChange(isInit=false){
 
 }
 
-
 function onDDChange() {
     var newValue = dropdown.property("value");
 
@@ -36,7 +35,7 @@ function onDDChange() {
 
 function makeDoughnut(fuelData){
     console.log(fuelData.results);
-    let myChart1 = document.getElementById("myChart").getContext('2d');
+    let myChart1 = document.getElementById("myChart1").getContext('2d');
     doughnutChart = new Chart(myChart1, {
         type:   'doughnut',
         data:   {
@@ -58,9 +57,6 @@ function makeDoughnut(fuelData){
 
                     "#0247FE",
                     "#8601AF",
-                    "brown",
-                    "pink",
-                    "teal"
                 ]
             }]
         },

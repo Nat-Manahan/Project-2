@@ -1,4 +1,4 @@
-console.log("READY FOR DUTY BIR")
+console.log("BAR CHART")
 var barChart;
 var dropdown = d3.select("#resource-dd")
 
@@ -25,7 +25,6 @@ function handleYearChange(isInit=false){
 
 }
 
-
 function onDDChange() {
     var newValue = dropdown.property("value");
 
@@ -39,24 +38,25 @@ function onDDChange() {
 function makeBarChart(yearData){
     console.log(yearData.results);
     let myChart2 = document.getElementById("myChart2").getContext('2d');
-    doughnutChart = new Chart(myChart2, {
-        type:   'bar',
+    barChart = new Chart(myChart2, {
+        type:   "bar",
         data:   {
-            labels: yearData.results.map(d => d.year_type),
-            datasets: [ {
+            labels: yearData.results.map(d => d.year),
+            datasets: [{
                 data: yearData.results.map(d => d.energy_gen),
                 backgroundColor: [
                     "#8601AF",
                 ]
             }]
         },
-        options: {}
+        options: {
+        }
     })
 }
 
 function updateBarChart(yearData){
     console.log(yearData.results)
-    BarChart.data.labels = yearData.results.map(d => d.year_type);
-    BarChart.data.datasets[0].data = yearData.results.map(d => parseInt(d.energy_gen));
+    barChart.data.labels = yearData.results.map(d => d.year);
+    barChart.data.datasets[0].data = yearData.results.map(d => parseInt(d.energy_gen));
     barChart.update();
 }

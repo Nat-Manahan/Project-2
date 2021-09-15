@@ -48,7 +48,7 @@ def return_fuel(YEAR):
 @app.route("/api/year/<FUEL>")
 def return_year(FUEL):
     print(FUEL)
-    year_filter_df = df.loc[(df["fuel"]==FUEL) & (df["area"]=="All")]
+    year_filter_df = df.loc[(df["fuel_type"]==FUEL) & (df["area"]=="All")]
     year_vc = year_filter_df.groupby("year")["energy_gen"].sum().reset_index()
     print(year_vc)
     return jsonify(results=[{"year": row["year"], "energy_gen": row["energy_gen"] } for idx, row in year_vc.iterrows()])
